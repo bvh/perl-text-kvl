@@ -1,2 +1,3 @@
-# perl5-text-kvl
-Perl 5 Module for Parsing KVL Data Language
+# Text::KVL
+
+A Perl 5 module for parsing key/value data.
